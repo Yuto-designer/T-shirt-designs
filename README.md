@@ -9,6 +9,7 @@
 "Freedom T-Shirt Design – Bold Typography & Streetwear Concept"
 !["Freedom T-Shirt Design – Bold Typography & Streetwear Concept"](https://github.com/Yuto-designer/T-shirt-designs/blob/main/20250704_151529.png)
 
+-------
 "The Fearless: Urban Noir Graphic Tee"
 
 !["The Fearless: Urban Noir Graphic Tee"](https://github.com/Yuto-designer/T-shirt-designs/blob/main/20250703_120504.png)
@@ -16,3 +17,5 @@
 "BEAST MODE UNLEASHED" | Clean car-themed graphic tee design
 
 ![BEAST MODE GRAPHIC TEE DESIGN](https://github.com/Yuto-designer/T-shirt-designs/blob/main/20250703_120357.png)
+---------
+This repository is Serverd under MIT license. to know about the terms and conditions of it check out the license file.
