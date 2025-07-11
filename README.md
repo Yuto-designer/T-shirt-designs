@@ -1,3 +1,8 @@
+"Minimalist NASA LineArt Tee – Clean, Bold, Futuristic Typography Design"
+
+!["Minimalist NASA LineArt Tee – Clean, Bold, Futuristic Typography Design"](https://github.com/Yuto-designer/T-shirt-designs/blob/main/20250711_105216.png)
+----
+
 "Nothing Without Hustle" - Clean & Bold Typography – Tee Design.
 
 !["Nothing Without Hustle" - Clean & Bold Typography – Tee Design.](https://github.com/Yuto-designer/T-shirt-designs/blob/main/20250710_174517.png)
